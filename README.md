@@ -47,6 +47,7 @@ The application can take 2 arguments from the command line.
 
 
 Argument 1 : Number of Strokes to generate within the range (1 - 32)
+
 Argument 2 : How many times to repeat the generated pattern (1 - MAXINT)
 
 
